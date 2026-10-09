@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060913,50:0c1427,100:112240&height=220&section=header&text=Muh.%20Irfan%20(BosRvan)&fontSize=46&fontAlignY=36&fontColor=ffffff&desc=%E2%9A%A1%20Backend%20Engineer%20%7C%20REST%20API%20Architect%20%7C%20Automation%20Specialist%20%E2%9A%A1&descAlignY=58&descAlign=50&descColor=00F0FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060913,50:0c1427,100:112240&height=220&section=header&text=Muh.%20Irfan%20(BosRvan)&fontSize=46&fontAlignY=36&fontColor=ffffff&desc=%E2%9A%A1%20Full-Stack%20%26%20Backend%20Engineer%20%7C%20SaaS%20Builder%20%7C%20AI%20Automation%20%E2%9A%A1&descAlignY=58&descAlign=50&descColor=00F0FF" width="100%"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=%E2%96%B8+Hello+World!+I'm+Muh.+Irfan+(BosRvan)+%F0%9F%91%8B;%E2%96%B8+Backend+%26+REST+API+Architect;%E2%96%B8+WhatsApp+Bot+%26+Automation+Engineer;%E2%96%B8+Transforming+Complexity+into+Clean+APIs+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=%E2%96%B8+Hello+World!+I'm+Muh.+Irfan+(BosRvan)+%F0%9F%91%8B;%E2%96%B8+Full-Stack+Developer+%26+SaaS+Builder;%E2%96%B8+AI+WhatsApp+Automation+Specialist;%E2%96%B8+Creator+of+Balezin%2C+Zenith%2C+%26+More+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,8 +13,8 @@
   <a href="https://github.com/RvanSans">
     <img src="https://img.shields.io/badge/GITHUB-RvanSans-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B132B" alt="GitHub"/>
   </a>
-  <a href="https://github.com/RvanSans?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-5+-00F0FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0B132B" alt="Repositories"/>
+  <a href="https://balezin.my.id">
+    <img src="https://img.shields.io/badge/SAAS-Balezin.my.id-00F0FF?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0B132B" alt="Balezin"/>
   </a>
 </p>
 
@@ -22,11 +22,11 @@
 
 ### 👨‍💻 Profil Singkat
 
-> **Backend Developer & Automation Specialist** dengan dedikasi tinggi pada perancangan arsitektur **RESTful API** berkinerja tinggi, sistem integrasi bot otomatis (**WhatsApp Bot**), serta optimalisasi pipeline pengolahan media digital. Berpengalaman mengubah tantangan alur kerja manual menjadi endpoint API yang andal dan mudah diintegrasikan.
+> **Full-Stack Developer, SaaS Builder & Automation Specialist** dengan rekam jejak membangun produk digital yang beroperasi secara live di ranah produksi. Berpengalaman merancang platform SaaS berbasis **Next.js & AI**, portal reseller dengan integrasi **Direct QRIS payment gateway**, sistem automasi **WhatsApp Bot**, serta web portal organisasi kampus.
 
-* 🎯 **Fokus Keahlian:** REST API Design, Micro-Services, WhatsApp Automation & Webhook Integration, Digital Media Converters.
-* 🌐 **Proyek Unggulan:** Website Resmi Organisasi **HMS UNAMIN**, REST Engine **Rvan-Bot-Api**, dan utilitas pengolahan file.
-* 🤝 **Kemitraan:** Terbuka untuk freelance, kolaborasi proyek backend, automasi alur kerja, maupun diskusi seputar pengembangan teknologi web.
+* 🚀 **Spesialisasi:** Full-Stack Web Development, SaaS Product Architecture, WhatsApp Automation, AI Integration, Payment Gateway (QRIS).
+* 💼 **Live Deployments:** Platform AI **Balezin**, Portal Reseller **Zenith Store**, dan Portal Resmi **HMS UNAMIN**.
+* 🤝 **Kolaborasi:** Terbuka untuk freelance, pengembangan aplikasi web skala produksi, otomasi alur kerja, maupun kemitraan bisnis.
 
 ---
 
@@ -34,56 +34,74 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql,git,github,postman,docker,linux,py,html,css,vscode&perline=8" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,tailwind,mongodb,mysql,git,github,postman,docker,linux,html,css&perline=8" alt="Tech Stack Icons" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">🚀 Featured Deployments & Projects</h3>
+<h3 align="center">🌐 Live Production Deployments & Flagship Projects</h3>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 HMS UNAMIN Portal</h3>
+      <a href="https://balezin.my.id" target="_blank">
+        <img src="https://balezin.my.id/og-image.png" alt="Balezin AI Preview" width="100%" style="border-radius: 8px;"/>
+      </a>
+      <h3 align="center">🤖 Balezin — AI WhatsApp CS Platform</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js" height="35"/>
+        <img src="https://img.shields.io/badge/Status-🟢%20Live%20Production-00F0FF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Next.js-Tailwind-000000?style=flat-square&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/AI-WhatsApp-25D366?style=flat-square&logo=whatsapp"/>
       </p>
-      <p>Website resmi organisasi kemahasiswaan HMS UNAMIN dengan antarmuka modern, responsif, dan terstruktur rapi.</p>
+      <p>Platform Customer Service otomatis berbasis Artificial Intelligence untuk WhatsApp UMKM. <i>"Chat masuk. Uang masuk."</i> Dilengkapi sistem auth, billing, dan automasi respons cerdas.</p>
       <p align="center">
-        <a href="https://github.com/RvanSans/hms-unamin"><b>Explore Source ➔</b></a>
+        <a href="https://balezin.my.id"><b>🚀 Kunjungi Platform (balezin.my.id) ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Rvan-Bot-Api</h3>
+      <a href="https://zenithstore.my.id" target="_blank">
+        <img src="https://image.thum.io/get/width/800/crop/500/https://zenithstore.my.id" alt="Zenith Store Preview" width="100%" style="border-radius: 8px;"/>
+      </a>
+      <h3 align="center">💎 Zenith Reseller Portal</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,js" height="35"/>
+        <img src="https://img.shields.io/badge/Status-🟢%20Live%20Production-00F0FF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PWA-QRIS%20Gateway-0d9488?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Telegram-Web%20App-229ED9?style=flat-square&logo=telegram"/>
       </p>
-      <p>High-performance REST API engine yang dirancang khusus untuk automasi WhatsApp Bot dan integrasi webhook.</p>
+      <p>Pusat layanan sosial media (SMM Reseller Portal) modern berbasis PWA, terintegrasi Telegram Web App dan sistem transaksi instan Direct QRIS.</p>
       <p align="center">
-        <a href="https://github.com/RvanSans/Rvan-Bot-Api"><b>Explore Source ➔</b></a>
+        <a href="https://zenithstore.my.id"><b>🚀 Kunjungi Portal (zenithstore.my.id) ➔</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Rvan-Api Core</h3>
+      <a href="https://hms-unamin.netlify.app" target="_blank">
+        <img src="https://image.thum.io/get/width/800/crop/500/https://hms-unamin.netlify.app" alt="HMS UNAMIN Preview" width="100%" style="border-radius: 8px;"/>
+      </a>
+      <h3 align="center">🏛️ HMS UNAMIN Official Portal</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,js,postman" height="35"/>
+        <img src="https://img.shields.io/badge/Status-🟢%20Live%20Production-00F0FF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Netlify-Dark%20Theme-00c7b7?style=flat-square"/>
       </p>
-      <p>Pusat utilitas backend multi-endpoint untuk berbagai pengolahan data publik & micro-services siap pakai.</p>
+      <p>Portal web resmi Himpunan Mahasiswa Sipil Universitas Muhammadiyah Sorong dengan desain modern responsif, galeri kegiatan, dan dashboard admin terstruktur.</p>
       <p align="center">
-        <a href="https://github.com/RvanSans/Rvan-Api"><b>Explore Source ➔</b></a>
+        <a href="https://hms-unamin.netlify.app"><b>🚀 Kunjungi Website (hms-unamin.netlify.app) ➔</b></a> &nbsp;|&nbsp; <a href="https://github.com/RvanSans/hms-unamin"><b>Kode ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎬 webp2mp4 & Media Tools</h3>
+      <a href="https://github.com/RvanSans/Rvan-Bot-Api" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:060913,100:0e1e38&height=200&section=header&text=🤖%20Rvan-Bot-Api&fontSize=28&fontColor=00F0FF&desc=High-Performance%20WhatsApp%20REST%20Engine&descColor=C9D1D9&descAlignY=65" alt="Rvan-Bot-Api Preview" width="100%" style="border-radius: 8px;"/>
+      </a>
+      <h3 align="center">⚡ Rvan-Bot-Api Engine</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,nodejs" height="35"/>
+        <img src="https://img.shields.io/badge/Status-🟢%20Open%20Source-00F0FF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=nodedotjs"/>
       </p>
-      <p>Utilitas konversi media instan untuk mengubah animasi WebP / stiker WhatsApp menjadi video MP4 & GIF.</p>
+      <p>Backend REST API khusus untuk engine automasi WhatsApp Bot, pengolahan webhook, serta utilitas konversi media (WebP/MP4).</p>
       <p align="center">
-        <a href="https://github.com/RvanSans/webp2mp4"><b>Explore Source ➔</b></a>
+        <a href="https://github.com/RvanSans/Rvan-Bot-Api"><b>📦 Jelajahi Repositori di GitHub ➔</b></a>
       </p>
     </td>
   </tr>
@@ -117,5 +135,5 @@
 </p>
 
 <p align="center">
-  <i>💡 Open for collaborations, custom bot development, and backend architecture discussions.</i>
+  <i>💡 Open for SaaS collaborations, custom bot development, and high-performance web engineering.</i>
 </p>
