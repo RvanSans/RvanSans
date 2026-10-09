@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,20,40,65&height=220&section=header&text=Muh.%20Irfan%20(BosRvan)&fontSize=46&fontAlignY=36&desc=%E2%9A%A1%20Backend%20Engineer%20%7C%20REST%20API%20Architect%20%7C%20Automation%20Specialist%20%E2%9A%A1&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060913,50:0c1427,100:112240&height=220&section=header&text=Muh.%20Irfan%20(BosRvan)&fontSize=46&fontAlignY=36&fontColor=ffffff&desc=%E2%9A%A1%20Backend%20Engineer%20%7C%20REST%20API%20Architect%20%7C%20Automation%20Specialist%20%E2%9A%A1&descAlignY=58&descAlign=50&descColor=00F0FF" width="100%"/>
 </p>
 
 <div align="center">
@@ -7,12 +7,14 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RvanSans&label=PROFILE%20VIEWS&color=00f0ff&style=for-the-badge" alt="Views"/>
   <a href="mailto:muh.irfan91262@gmail.com">
-    <img src="https://img.shields.io/badge/Email-muh.irfan91262%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-muh.irfan91262%40gmail.com-00F0FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B132B" alt="Email"/>
   </a>
   <a href="https://github.com/RvanSans">
-    <img src="https://img.shields.io/badge/GitHub-RvanSans-10141d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-RvanSans-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B132B" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/RvanSans?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-5+-00F0FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0B132B" alt="Repositories"/>
   </a>
 </p>
 
@@ -20,7 +22,7 @@
 const developer = {
     name: "Muh. Irfan",
     knownAs: "BosRvan",
-    discipline: "Backend & Automation Engineer",
+    role: "Backend & Automation Engineer",
     coreStack: ["JavaScript (Node.js)", "TypeScript", "REST APIs"],
     passions: [
         "Architecting robust micro-services & RESTful endpoints",
@@ -33,26 +35,26 @@ const developer = {
 
 ---
 
-### ⚡ Arsenal & Technologies
+<h3 align="center">⚡ Tech Arsenal & Stack</h3>
 
-<div align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql,git,github,postman,docker,linux,py,html,css,vscode&perline=8" alt="Tech Stack Icons" />
   </a>
-</div>
+</p>
 
 ---
 
-### 🚀 Featured Deployments & Projects
+<h3 align="center">🚀 Featured Deployments & Projects</h3>
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🌐 HMS UNAMIN Portal</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=html,css,js" height="35"/>
       </p>
-      <p>Website resmi organisasi kemahasiswaan HMS UNAMIN dengan tata letak modern, responsif, dan terstruktur.</p>
+      <p>Website resmi organisasi kemahasiswaan HMS UNAMIN dengan antarmuka modern, responsif, dan terstruktur rapi.</p>
       <p align="center">
         <a href="https://github.com/RvanSans/hms-unamin"><b>Explore Source ➔</b></a>
       </p>
@@ -62,7 +64,7 @@ const developer = {
       <p align="center">
         <img src="https://skillicons.dev/icons?i=nodejs,express,js" height="35"/>
       </p>
-      <p>High-performance REST API engine yang dirancang khusus untuk otomasi WhatsApp Bot dan penanganan webhook.</p>
+      <p>High-performance REST API engine yang dirancang khusus untuk automasi WhatsApp Bot dan integrasi webhook.</p>
       <p align="center">
         <a href="https://github.com/RvanSans/Rvan-Bot-Api"><b>Explore Source ➔</b></a>
       </p>
@@ -74,7 +76,7 @@ const developer = {
       <p align="center">
         <img src="https://skillicons.dev/icons?i=nodejs,js,postman" height="35"/>
       </p>
-      <p>Pusat utilitas backend multi-endpoint untuk berbagai pengolahan data publik & micro-services.</p>
+      <p>Pusat utilitas backend multi-endpoint untuk berbagai pengolahan data publik & micro-services siap pakai.</p>
       <p align="center">
         <a href="https://github.com/RvanSans/Rvan-Api"><b>Explore Source ➔</b></a>
       </p>
@@ -84,7 +86,7 @@ const developer = {
       <p align="center">
         <img src="https://skillicons.dev/icons?i=js,nodejs" height="35"/>
       </p>
-      <p>Utilitas konversi media ultra-cepat untuk mengubah animasi WebP / stiker menjadi video MP4 & GIF.</p>
+      <p>Utilitas konversi media instan untuk mengubah animasi WebP / stiker WhatsApp menjadi video MP4 & GIF.</p>
       <p align="center">
         <a href="https://github.com/RvanSans/webp2mp4"><b>Explore Source ➔</b></a>
       </p>
@@ -94,20 +96,20 @@ const developer = {
 
 ---
 
-### 📊 GitHub Activity & Metrics
+<h3 align="center">📊 GitHub Activity & Metrics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RvanSans&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=79C0FF&text_color=C9D1D9" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RvanSans&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RvanSans&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060913&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RvanSans&layout=compact&theme=tokyonight&hide_border=true&bg_color=060913&title_color=00F0FF&text_color=C9D1D9" height="175" alt="Top Languages" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RvanSans&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF4D4D&currStreakNum=00F0FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RvanSans&theme=tokyonight&hide_border=true&background=060913&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🐍 Contribution Activity Stream
+<h3 align="center">🐍 Contribution Activity Stream</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/RvanSans/RvanSans/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
@@ -116,7 +118,7 @@ const developer = {
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,35&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060913,50:0c1427,100:112240&height=100&section=footer" width="100%"/>
 </p>
 
 <p align="center">
