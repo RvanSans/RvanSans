@@ -18,20 +18,15 @@
   </a>
 </p>
 
-```javascript
-const developer = {
-    name: "Muh. Irfan",
-    knownAs: "BosRvan",
-    role: "Backend & Automation Engineer",
-    coreStack: ["JavaScript (Node.js)", "TypeScript", "REST APIs"],
-    passions: [
-        "Architecting robust micro-services & RESTful endpoints",
-        "Building smart WhatsApp automation bots & scrapers",
-        "Optimizing media pipelines & real-time converters"
-    ],
-    status: "Always building, optimizing, and exploring next-gen tech 🚀"
-};
-```
+---
+
+### 👨‍💻 Profil Singkat
+
+> **Backend Developer & Automation Specialist** dengan dedikasi tinggi pada perancangan arsitektur **RESTful API** berkinerja tinggi, sistem integrasi bot otomatis (**WhatsApp Bot**), serta optimalisasi pipeline pengolahan media digital. Berpengalaman mengubah tantangan alur kerja manual menjadi endpoint API yang andal dan mudah diintegrasikan.
+
+* 🎯 **Fokus Keahlian:** REST API Design, Micro-Services, WhatsApp Automation & Webhook Integration, Digital Media Converters.
+* 🌐 **Proyek Unggulan:** Website Resmi Organisasi **HMS UNAMIN**, REST Engine **Rvan-Bot-Api**, dan utilitas pengolahan file.
+* 🤝 **Kemitraan:** Terbuka untuk freelance, kolaborasi proyek backend, automasi alur kerja, maupun diskusi seputar pengembangan teknologi web.
 
 ---
 
