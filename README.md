@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060913,50:0c1427,100:112240&height=220&section=header&text=Muh.%20Irfan%20(BosRvan)&fontSize=46&fontAlignY=36&fontColor=ffffff&desc=%E2%9A%A1%20Full-Stack%20%26%20Backend%20Engineer%20%7C%20SaaS%20Builder%20%7C%20AI%20Automation%20%E2%9A%A1&descAlignY=58&descAlign=50&descColor=00F0FF" width="100%"/>
+  <img src="assets/header.svg" width="100%" alt="Header Banner" />
 </p>
 
 <div align="center">
@@ -22,10 +22,10 @@
 
 ### 👨‍💻 Profil Singkat
 
-> **Full-Stack Developer, SaaS Builder & Automation Specialist** dengan rekam jejak membangun produk digital yang beroperasi secara live di ranah produksi. Berpengalaman merancang platform SaaS berbasis **Next.js & AI**, portal reseller dengan integrasi **Direct QRIS payment gateway**, sistem automasi **WhatsApp Bot**, serta web portal organisasi kampus.
+> **Full-Stack Developer, SaaS Builder & Automation Specialist** dengan rekam jejak membangun produk digital yang beroperasi secara live di ranah produksi. Berpengalaman merancang platform SaaS berbasis **Next.js & AI**, portal reseller dengan integrasi gateway pembayaran **Direct QRIS**, sistem automasi **WhatsApp Bot**, serta portal web organisasi kampus.
 
-* 🚀 **Spesialisasi:** Full-Stack Web Development, SaaS Product Architecture, WhatsApp Automation, AI Integration, Payment Gateway (QRIS).
-* 💼 **Live Deployments:** Platform AI **Balezin**, Portal Reseller **Zenith Store**, dan Portal Resmi **HMS UNAMIN**.
+* 🚀 **Spesialisasi:** Pengembangan Web Full-Stack, Arsitektur Produk SaaS, Otomatisasi WhatsApp, Integrasi AI, Payment Gateway (QRIS).
+* 💼 **Penerapan Langsung:** Platform AI **Balezin**, Portal Reseller **Zenith Store**, dan Portal Resmi **HMS UNAMIN**.
 * 🤝 **Kolaborasi:** Terbuka untuk freelance, pengembangan aplikasi web skala produksi, otomasi alur kerja, maupun kemitraan bisnis.
 
 ---
@@ -92,14 +92,14 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/RvanSans/Rvan-Bot-Api" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:060913,100:0e1e38&height=200&section=header&text=🤖%20Rvan-Bot-Api&fontSize=28&fontColor=00F0FF&desc=High-Performance%20WhatsApp%20REST%20Engine&descColor=C9D1D9&descAlignY=65" alt="Rvan-Bot-Api Preview" width="100%" style="border-radius: 8px;"/>
+        <img src="assets/rvan-bot-api.svg" alt="Rvan-Bot-Api Preview" width="100%" style="border-radius: 8px;"/>
       </a>
       <h3 align="center">⚡ Rvan-Bot-Api Engine</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-🟢%20Open%20Source-00F0FF?style=flat-square"/>
         <img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=nodedotjs"/>
       </p>
-      <p>Backend REST API khusus untuk engine automasi WhatsApp Bot, pengolahan webhook, serta utilitas konversi media (WebP/MP4).</p>
+      <p>Backend REST API khusus untuk engine automasi WhatsApp Bot, penanganan multi-client session, serta utilitas konversi media (WebP/MP4).</p>
       <p align="center">
         <a href="https://github.com/RvanSans/Rvan-Bot-Api"><b>📦 Jelajahi Repositori di GitHub ➔</b></a>
       </p>
@@ -131,7 +131,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060913,50:0c1427,100:112240&height=100&section=footer" width="100%"/>
+  <img src="assets/footer.svg" width="100%" alt="Footer Wave" />
 </p>
 
 <p align="center">
